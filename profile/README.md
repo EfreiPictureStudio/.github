@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bienvenue sur le GitHub de efrei picture studio
+L'association Efrei Picture Studio est chargée de la couverture photographique des événements de l'EFREI et du partage de la passion pour la photo !
 
 <!--
 
